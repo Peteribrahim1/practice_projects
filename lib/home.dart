@@ -29,7 +29,7 @@ class _HomeState extends State<Home> {
         title: Text('Hello World'),
       ),
       body: Center(
-        child: Text('Hello World'),
+        child: Text('Hello World people'),
       ),
     );
   }
