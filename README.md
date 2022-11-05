@@ -1,6 +1,6 @@
 # start
 
-A new Flutter project.
+This is a practice project
 
 ## Getting Started
 
